@@ -1,4 +1,4 @@
-name: programmingwithkumaresan
+name: ngrok-win10
 
 on: [push, workflow_dispatch]
 
